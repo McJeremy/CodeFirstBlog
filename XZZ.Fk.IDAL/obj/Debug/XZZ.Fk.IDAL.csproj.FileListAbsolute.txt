@@ -1,0 +1,9 @@
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.IDAL.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.IDAL.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.Core.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.Models.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.Core.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\bin\Debug\XZZ.Fk.Models.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\obj\Debug\XZZ.Fk.IDAL.csprojResolveAssemblyReference.cache
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\obj\Debug\XZZ.Fk.IDAL.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.IDAL\obj\Debug\XZZ.Fk.IDAL.pdb

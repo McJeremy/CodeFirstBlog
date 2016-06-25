@@ -1,0 +1,7 @@
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\bin\Debug\XZZ.Fk.Core.Log.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\bin\Debug\XZZ.Fk.Core.Log.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\bin\Debug\XZZ.Fk.Core.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\bin\Debug\XZZ.Fk.Core.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\obj\Debug\XZZ.Fk.Core.Log.csprojResolveAssemblyReference.cache
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\obj\Debug\XZZ.Fk.Core.Log.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core.Log\obj\Debug\XZZ.Fk.Core.Log.pdb

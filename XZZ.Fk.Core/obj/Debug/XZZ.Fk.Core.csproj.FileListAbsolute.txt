@@ -1,0 +1,4 @@
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core\bin\Debug\XZZ.Fk.Core.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core\bin\Debug\XZZ.Fk.Core.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core\obj\Debug\XZZ.Fk.Core.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Core\obj\Debug\XZZ.Fk.Core.pdb

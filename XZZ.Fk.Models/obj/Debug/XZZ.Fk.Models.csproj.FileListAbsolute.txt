@@ -1,0 +1,7 @@
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\bin\Debug\XZZ.Fk.Models.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\bin\Debug\XZZ.Fk.Models.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\bin\Debug\XZZ.Fk.Core.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\bin\Debug\XZZ.Fk.Core.pdb
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\obj\Debug\XZZ.Fk.Models.csprojResolveAssemblyReference.cache
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\obj\Debug\XZZ.Fk.Models.dll
+F:\test\netcore\CodeFirstBlog\XZZ.Fk.Models\obj\Debug\XZZ.Fk.Models.pdb
